@@ -19,7 +19,7 @@ Model Değerlendirmesi: Eğitilen modelin performansı, test verileri üzerinde 
 
 Elde edilen sonuçlar, modelin elma kalitesini belirlemede yüksek doğrulukta olduğunu göstermektedir. Özellikle belirli bir elma çeşidi veya özellik için elde edilen sonuç gibi alanlarda başarılı sonuçlar elde edilmiştir.
 
-Gelecek Çalışmalar
+## Gelecek Çalışmalar
 
 Daha Fazla Veri: Farklı elma çeşitleri ve yetiştirme koşullarından daha fazla veri toplanarak modelin genellenebilirliği artırılacaktır.
 Gerçek Zamanlı Tahmin: Modelin gerçek zamanlı olarak çalışabileceği bir sistem geliştirilmesi hedeflenmektedir.
